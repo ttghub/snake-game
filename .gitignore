@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+*.spec
+snake_highscore.txt
+*.pyc
+*.pyo
