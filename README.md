@@ -31,7 +31,7 @@
 
 ## 💰 下载
 
-前往 [Releases](https://github.com/YOUR_USERNAME/snake-game/releases) 下载最新版 `贪吃蛇.exe`。
+前往 [Releases](https://github.com/ttghub/snake-game/releases) 下载最新版 `贪吃蛇.exe`。
 
 > **如果觉得好玩，欢迎扫码打赏支持开发 ☕**
 >
