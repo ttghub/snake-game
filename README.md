@@ -29,13 +29,11 @@
 
 > *（请在此处添加游戏截图）*
 
-## 💰 下载
+## 📥 下载
 
-前往 [Releases](https://github.com/ttghub/snake-game/releases) 下载最新版 `贪吃蛇.exe`。
+👉 **[点此下载 贪吃蛇.exe](https://github.com/ttghub/snake-game/releases/latest)**  (~10.9 MB，双击即玩)
 
-> **如果觉得好玩，欢迎扫码打赏支持开发 ☕**
->
-> *(在此处放你的微信/支付宝收款码截图)*
+> 完全免费，纯用爱发电 ❤️ 喜欢的话给个 Star ⭐ 就行！
 
 ## 🛠️ 开发
 
