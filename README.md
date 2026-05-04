@@ -27,7 +27,13 @@
 
 ## 📸 截图
 
-> *（请在此处添加游戏截图）*
+| 开始界面 | 手动模式 |
+|:---:|:---:|
+| ![Start Screen](./screenshots/screenshot_start.png) | ![Manual Play](./screenshots/screenshot_manual.png) |
+
+| AI 自动演示 | 暂停界面 | 游戏结束 |
+|:---:|:---:|:---:|
+| ![AI Play](./screenshots/screenshot_ai.png) | ![Pause](./screenshots/screenshot_pause.png) | ![Game Over](./screenshots/screenshot_gameover.png) |
 
 ## 📥 下载
 
